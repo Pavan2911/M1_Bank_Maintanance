@@ -51,10 +51,17 @@ Exit
 
 
 For Who:
+
 Banks.
+
 For What:
+
 To maintain the banks data by automated system.
+
 When:
+
 When Banks are crowded and staff to customer interactions are at an height, this system allows user to perform simple transactions on this system.
+
 How:
+
 Effectively organises and maintains data which in return allows easy accessibility.
