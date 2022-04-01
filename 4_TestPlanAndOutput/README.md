@@ -1,5 +1,7 @@
 TEST PLAN:
+
 Test ID	   Description	                              Exp I/P	  Exp O/P	  Actual Out	Type Of Test
+
  H_01	     Check if when month entered less than 0	    -1	     FAIL	       FAIL	    Technical based
  H_02	     Check if when month entered more than 12	     13	     FAIL	       FAIL	    Scenario/Technical
  H_03	     Check if when month entered less than 0	     -1	     FAIL	       FAIL	    Technical based
