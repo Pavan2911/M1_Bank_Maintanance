@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#ifndef _cbank_
+#ifndef _Bank_
 void admin();
 void main_screen();
 void bank_menu();
